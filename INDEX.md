@@ -31,7 +31,8 @@ This page indexes every deliverable produced across the internship, in roughly c
 
 ## Build-in-public post
 
-- [Build-in-public post: telling the story](#) — one real decision, one real limitation, linked demo video
+- [Build-in-public post: telling the story](https://lnkd.in/p/d79Crh2D) — LinkedIn: one real decision, one real limitation
+- [Build-in-public post (repo version)](./build-in-public-post.md) — longer write-up with worked example
 
 ## Weekly progress (selected)
 
